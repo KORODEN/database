@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Лабораторна работа №6</string>
+    <string name="signature">Created by KORODEN</string>
+    <string name="title">Название</string>
+    <string name="kind">Тип</string>
+    <string name="price">Стоимость</string>
+    <string name="weight">Вес</string>
+</resources>
